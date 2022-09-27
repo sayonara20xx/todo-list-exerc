@@ -1,0 +1,20 @@
+{
+  "name": "task-implem",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "just some practice",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "yuyushka",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "nodemon": "^2.0.20"
+  }
+}

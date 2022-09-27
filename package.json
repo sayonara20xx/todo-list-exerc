@@ -1,0 +1,11 @@
+{
+  "name": "stoa-packages",
+  "workspaces": [
+    "json-server-main",
+    "task-implem"
+  ],
+  "scripts": {
+    "server": "cd json-server-main && npm start",
+    "front": "cd task-implem && npm run dev"
+  }
+}
